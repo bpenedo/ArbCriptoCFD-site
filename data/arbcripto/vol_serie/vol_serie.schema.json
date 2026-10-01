@@ -1,0 +1,1 @@
+[{"name":"data","evidenceType":"date","typeFidelity":"precise"},{"name":"retorno_pct","evidenceType":"number","typeFidelity":"precise"},{"name":"ewma","evidenceType":"number","typeFidelity":"precise"},{"name":"garch","evidenceType":"number","typeFidelity":"precise"},{"name":"egarch","evidenceType":"number","typeFidelity":"precise"}]
